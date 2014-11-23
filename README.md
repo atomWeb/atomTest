@@ -2,4 +2,4 @@ atomTest
 ========
 
 atom editor integration git test
-Prueba de Git cin atom
+Prueba de Git con atom !
